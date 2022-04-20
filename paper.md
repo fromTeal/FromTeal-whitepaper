@@ -8,7 +8,9 @@
 
 ## Entities
 
-| Entity | Description | Example |
+| Entity | Description | Examples |
 | ----------- | ----------- | ----------- |
 | Purpose Island | - A neighborhood of teams all working towards a common purpose - something they want to change in the world | Climate change, Longevity, Visualizing big data |
 | Need Lot | - A lot (enclosed area) created within an island, for a specific need or problem | Capturing CO2, Alerting on toxic jelly fish |
+| Team | - A group of artists, engineers or any world changers, that share a similar purpose of creating or changing something in the world |  |
+| Task | - A work item that helps the team towards their shared purpose |  |
