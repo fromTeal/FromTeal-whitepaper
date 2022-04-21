@@ -3,9 +3,9 @@
 ## Purpose
 - Throughuot history, there were several special times & places when a confluence of artists or engineers grouped together to create something really great, that didn't just advance our evolution as a species, but also left many generations afterwards with so much joy & appreciation. Think of Paris in the time of Dada & Surrealism, London in the time of Russel & Wittgenstein, New York in the time of Warhol & the Velvet Underground or Palo Alto in the time of TCP/IP & Xerox PARC.
 
-- However, there are much more examples of artists & engineers that didn't know about each other, even though they were working on the same things.
+- However, there are many more examples of artists & engineers that didn't know about each other, even though they were working on the same things, so lost the opportunity to cross-polinate each other & create great things together.
 
-- There are also very little examples of groups that created something great, but were able to encorporate as a business to make a living out of their passion.
+- There are also very little examples of groups that created something great, but weren't able to encorporate as a business to make a living out of their passion.
 
 - With the Web, it's much easier today to discover others sharing the same passion or purpose, & group together. With Web3 in particular, it is also becoming easier to enable self-goverenance for the group & allow it to split the commercial value created, in a fair way.
 
