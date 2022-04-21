@@ -19,7 +19,13 @@ fromTeal is a digital world (special-purpose metaverse) designed to enable 3 mai
 2. It then helps them organize in a way that maximizes their freedom & creativity (just like a self-organized Hackathon team) while still maintaining a governance model that regulates decision making, conflict resolution &c.
 3. As the group work together, fromTeal also keeps tap of the equity share of each member, so that whenever they have profits or any other commercial liquidity, they can share it in a fair way.
 
+### Discovery & group forming
 To help the discovery of other like-minded people sharing the same passion or purpose, fromTeal organizes the digital world in Islands, Lots & Buildings, that are organized around different purposes, problems, art forms, technologies or research areas. This works just like in cities you have neighborhoods or streets concentrating fashion stores, car dealers, house decor stores, or restaurants, so that you can discover what you need by wondering around. Each Island is created for a specific purpose or passion, each lot within it is created for a more specific problem or area, & each building in a lot serves as the virtual HQ for a group working together.
+
+### Organization & governance
+fromTeal is leveraging a way of organization & governance known as Teal or Holacracy, that was proven to be very effective with companies & organization that maximize the freedom & creativity of their members, to achieve extraordinary results. The main principle behind this governance model is that if people are driven by the same purpose, you don't need to have managers telling them what to do, but instead you can assume they'll be able to self-manage & self-organize themselves towards achieving their purpose. This means that everyone can make decisions by themselves, as long as they ask for advice from other stakeholders. Having this level of freedom, essentially make everyone fully leverage their creativity & capabilities, as they're all working as owners & not employees following orders.
+
+### Equity & splitting of value
 
 
 
