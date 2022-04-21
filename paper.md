@@ -7,7 +7,7 @@
 
 - There are also very little examples of groups that created something great, but were able to encorporate as a business to make a living out of their passion.
 
-- With the Web, it's much easier today to discover others sharing the same passion or purpose, & group together. With the new Web3, it is also becoming easier to split the value created in the group, in a fair way.
+- With the Web, it's much easier today to discover others sharing the same passion or purpose, & group together. With the new Web3, it is also becoming easier to enable self-goverenance for the group & allow it to split the commercial value created, in a fair way.
 
 - fromTeal is a digital place for artists, engineers & any other world changers, to group together & create great things, while fairly splitting the value created.
 
