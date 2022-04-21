@@ -16,8 +16,8 @@
 ## Overview
 fromTeal is a digital world (special-purpose metaverse) designed to enable 3 main functions, in a practical & effective way:
 1. Help engineers, artists, scientists & entrepreneurs to discover like-minded others who share the same passion or purpose, & form a group to pursue that passion or purpose together
-2. It then helps them organize in a way that maximizes their freedom & creativity (just like a self-organized Hackathon team) while still maintaining a governance model that regulates decision making, conflict resolution &c.
-3. As the group work together, fromTeal also keeps tap of the equity share of each member, so that whenever they have profits or any other commercial liquidity, they can share it in a fair way.
+2. Once a group is forme, help them organize in a way that maximizes their freedom & creativity (just like a self-organized Hackathon team) while still maintaining a governance model that regulates decision making, conflict resolution &c.
+3. As the group work together, also keep tap of the equity share of each member, so that whenever they have profits or any other commercial liquidity, they can share it in a fair way.
 
 ### Discovery & group forming
 To help the discovery of other like-minded people sharing the same passion or purpose, fromTeal organizes the digital world into Islands, Lots & Buildings, that are organized around different purposes, problems, art forms, technologies or research areas. This works just like in cities you have neighborhoods or streets concentrating fashion stores, car dealers, house decor stores, or restaurants, so that you can discover what you need by wondering around. Each Island is created for a specific purpose or passion, each lot within it is created for a more specific problem or area, & each building in a lot serves as the virtual HQ for a group working together.
