@@ -7,9 +7,11 @@
 
 - There are also very little examples of groups that created something great, but were able to encorporate as a business to make a living out of their passion.
 
-- With the Web & especially Web3, it's much easier today to discover others sharing the same passion or purpose, & group together. It is also becoming easier to split the value created in thr group, in a fair way.
+- With the Web, it's much easier today to discover others sharing the same passion or purpose, & group together. With the new Web3, it is also becoming easier to split the value created in the group, in a fair way.
 
-- fromTeal is a digital place for artists & engineers to group together & create great things, while fairly splitting the value created.
+- fromTeal is a digital place for artists, engineers & any other world changers, to group together & create great things, while fairly splitting the value created.
+
+
 
 
 ## Entities
@@ -20,3 +22,4 @@
 | Need Lot | - A lot (enclosed area) created within an island, for a specific need or problem | Capturing CO2, Alerting on toxic jelly fish |
 | Team | - A group of artists, engineers or any world changers, that share a similar purpose of creating or changing something in the world |  |
 | Task | - A work item that helps the team towards their shared purpose |  |
+| Session | - A virtual meeting between team members, for working towards their shared purpose |  |
