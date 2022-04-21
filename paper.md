@@ -34,14 +34,26 @@ fromTeal defines a way for groups working together to keep tap of the equity sha
 The fromTeal digital world is actually an information system with a new UI paradigm for working with information. Every entity in this information system is represented by a 3D object, whose state is managed in an L2 blockchain, facilitating the governance & equity functionality in a decentralized way. 
 
 ### Example scenario
-- Chris is an engineer who's very passionate about fighting global climate change, & thought of a way to enable people to capture CO2 in their own house
+- Chris is an engineer who's very passionate about fighting global climate change, & thought of a way to enable people & companies to capture CO2 in their home or offices
 - He knows that it would require help from others to realize his project, as there are many problems to solve in order to make this way effective & practical 
 - He goes to the fromTeal digital world, & enters the Island dedicated for the global climate change, where groups of people research different components of this problem
 - He finds there a lot dedicated for CO2 capture, & sees there the HQ's of several groups working on projects for doing that
-- None of these groups actually uses the methods Chris thought about, so he decides to start a new group, & creates a virtual HQ for it
-- 
+- None of these groups actually uses the methods Chris thought about, so he decides to start a new group, called "Planet A" & creates a virtual HQ for it
+- fromTeal mints 1MM equity tokens for the Planet A group
+- Chris starts working on the tasks, such as building a prototype & recruiting a scientist, & creates objects representing them in the HQ
+- As tasks are completed, Chris updates their state, allowing fromTeal to track his level of contribution (e.g., completing on average a task per day, week or month).
+- Chris level of contribution is 1 task per week, & based on this, fromTeal transfers every month 700 equity token to his balance
+- Janet, another fromTeal user, visits the global climate change Island, & sees the task for recruiting a scientist. Since she has a frien scientist, Alan, who's very passionate about climate change as well, she refers Chris to Alan, who agrees to join the Planet A group
+- Chris decides to grant Janet 100 equity tokens, as a reward for the referral
+- Alan joins the group & starts working on tasks
+- Every week, the 2 have a session working together
+- fromTeal keeps track of both the task completion as well as the session attendance, & based on both, determines the level of contribution of each member, & accordingly their monthly earning of equity tokens
+- As the team works on prototypes, they also have costs, which they share between them. fromTeal keeps track of contribution to costs, which also impacts the level of contribution
+- After a year, the group adds couple more members, & finally builds a product with reasable effectiveness
+- They decide to sell the product to people & companies through a web site, & after some time have initial profits
+- fromTeal shows the equity tokens balance of each member, so they're able to split the profits according to the distribution of equity tokens
 
-## Entities
+### Entities
 
 | Entity | Description | Examples |
 | ----------- | ----------- | ----------- |
