@@ -16,7 +16,7 @@
 ## Overview
 fromTeal is a digital world (special-purpose metaverse) designed to enable 3 main functions, in a practical & effective way:
 1. Help engineers, artists, scientists & entrepreneurs to discover like-minded others who share the same passion or purpose, & form a group to pursue that passion or purpose together
-2. Once a group is forme, help them organize in a way that maximizes their freedom & creativity (just like a self-organized Hackathon team) while still maintaining a governance model that regulates decision making, conflict resolution &c.
+2. Once a group is formed, help them organize in a way that maximizes their freedom & creativity (just like a self-organized Hackathon team) while still maintaining a governance model that regulates decision making, conflict resolution &c.
 3. As the group work together, also keep tap of the equity share of each member, so that whenever they have profits or any other commercial liquidity, they can share it in a fair way.
 
 ### Discovery & group forming
