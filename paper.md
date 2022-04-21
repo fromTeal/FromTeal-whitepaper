@@ -7,7 +7,7 @@
 
 - There are also very little examples of groups that created something great, but were able to encorporate as a business to make a living out of their passion.
 
-- With the Web, it's much easier today to discover others sharing the same passion or purpose, & group together. With the new Web3, it is also becoming easier to enable self-goverenance for the group & allow it to split the commercial value created, in a fair way.
+- With the Web, it's much easier today to discover others sharing the same passion or purpose, & group together. With Web3 in particular, it is also becoming easier to enable self-goverenance for the group & allow it to split the commercial value created, in a fair way.
 
 - fromTeal is a digital place for artists, engineers & any other world changers, to group together & create great things, while fairly splitting the value created.
 
@@ -34,7 +34,12 @@ fromTeal defines a way for groups working together to keep tap of the equity sha
 The fromTeal digital world is actually an information system with a new UI paradigm for working with information. Every entity in this information system is represented by a 3D object, whose state is managed in an L2 blockchain, facilitating the governance & equity functionality in a decentralized way. 
 
 ### Example scenario
-
+- Chris is an engineer who's very passionate about fighting global climate change, & thought of a way to enable people to capture CO2 in their own house
+- He knows that it would require help from others to realize his project, as there are many problems to solve in order to make this way effective & practical 
+- He goes to the fromTeal digital world, & enters the Island dedicated for the global climate change, where groups of people research different components of this problem
+- He finds there a lot dedicated for CO2 capture, & sees there the HQ's of several groups working on projects for doing that
+- None of these groups actually uses the methods Chris thought about, so he decides to start a new group, & creates a virtual HQ for it
+- 
 
 ## Entities
 
