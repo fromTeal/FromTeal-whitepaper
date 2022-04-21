@@ -3,6 +3,12 @@
 ## Purpose
 - There were these special times & places in history, when a confluence of artists or engineers grouped together to create something really great, that didn't just advance our evolution as a species, but also left many generations afterwards with so much joy & appreciation. Think of Paris in the time of Dada & Surrealism, London in the time of Russel & Wittgenstein, New York in the time of Warhol & the Velvet Underground or Palo Alto in the time of TCP/IP & Xerox PARC.
 
+- However, there are much more examples of artists & engineers that didn't know about each other, even though they were working on the same things.
+
+- There are also very little examples of groups that created something great, but were able to encorporate as a business to make a living out of their passion.
+
+- With the Web & especially Web3, it's much easier today to discover others sharing the same passion or purpose, & group together. It is also becoming easier to split the value created in thr group, in a fair way.
+
 - fromTeal is a digital place for artists & engineers to group together & create great things, while fairly splitting the value created.
 
 
