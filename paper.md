@@ -31,7 +31,9 @@ fromTeal defines a way for groups working together to keep tap of the equity sha
 
 
 ## How it works
+The fromTeal digital world is actually an information system with a new UI paradigm for working with information. Every entity in this information system is represented by a 3D object, whose state is managed in an L2 blockchain, facilitating the governance & equity functionality in a decentralized way. 
 
+### Example scenario
 
 
 ## Entities
