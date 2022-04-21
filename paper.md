@@ -1,7 +1,7 @@
 # fromTeal Whitepaper
 
 ## Purpose
-- There were these special times & places in history, when a confluence of artists or engineers grouped together to create something really great, that didn't just advance our evolution as a species, but also left many generations afterwards with so much joy & appreciation. Think of Paris in the time of Dada & Surrealism, London in the time of Russel & Wittgenstein, New York in the time of Warhol & the Velvet Underground or Palo Alto in the time of TCP/IP & Xerox PARC.
+- Throughuot history, there were several special times & places when a confluence of artists or engineers grouped together to create something really great, that didn't just advance our evolution as a species, but also left many generations afterwards with so much joy & appreciation. Think of Paris in the time of Dada & Surrealism, London in the time of Russel & Wittgenstein, New York in the time of Warhol & the Velvet Underground or Palo Alto in the time of TCP/IP & Xerox PARC.
 
 - However, there are much more examples of artists & engineers that didn't know about each other, even though they were working on the same things.
 
@@ -16,8 +16,10 @@
 ## Overview
 fromTeal is a digital world (special-purpose metaverse) designed to enable 3 main functions, in a practical & effective way:
 1. Help engineers, artists, scientists & entrepreneurs to discover like-minded others who share the same passion or purpose, & form a group to pursue that passion or purpose together
-2. It then helps them organize in a way that maximizes their freedom & creativity, just like a self-organized Hackathon team, while still maintaining a governance model regulating decision making, conflict resolution &c.
-3. While doing that, it also keeps tap of the equity share of each member of the group, so that whenever they have profits or any other commercial liquidity, they can share it in a fair way.
+2. It then helps them organize in a way that maximizes their freedom & creativity (just like a self-organized Hackathon team) while still maintaining a governance model that regulates decision making, conflict resolution &c.
+3. As the group work together, fromTeal also keeps tap of the equity share of each member, so that whenever they have profits or any other commercial liquidity, they can share it in a fair way.
+
+To help the discovery of other like-minded people sharing the same passion or purpose, fromTeal organizes the digital world in Islands, Lots & Buildings, that are organized around different purposes, problems, art forms, technologies or research areas. This works just like in cities you have neighborhoods or streets concentrating fashion stores, car dealers, house decor stores, or restaurants, so that you can discover what you need by wondering around. Each Island is created for a specific purpose or passion, each lot within it is created for a more specific problem or area, & each building in a lot serves as the virtual HQ for a group working together.
 
 
 
