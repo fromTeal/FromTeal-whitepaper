@@ -62,3 +62,14 @@ The fromTeal digital world is actually an information system with a new UI parad
 | Team | - A group of artists, engineers or any world changers, that share a similar purpose of creating or changing something in the world |  |
 | Task | - A work item that helps the team towards their shared purpose |  |
 | Session | - A virtual meeting between team members, for working towards their shared purpose |  |
+| Cost | - An expanse that the group had as part of their work, covered by a team member |  |
+| Member |  |  |
+| Membership type | - A classification of members, automatically calculated every quarter, based on the average frequency of completing tasks, attending sessions or covering costs.         
+- Used to determine the number of ownership token earned by the member each month.
+        - Types:
+            - Daily: completes/attends on average at least 1 task or session every week day
+            - Weekly: same for week
+            - Monthly: same for month
+            - Quarterly: same for quarter
+            - Yearly: same for year
+ |  |
