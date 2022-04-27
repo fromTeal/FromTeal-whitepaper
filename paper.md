@@ -64,7 +64,7 @@ The fromTeal digital world is actually an information system with a new UI parad
 | Task | - A work item that helps the team towards their shared purpose |  |
 | Session | - A virtual meeting between team members, for working towards their shared purpose |  |
 | Cost | - An expanse that the group had as part of their work, covered by a team member |  |
-| Member |  |  |
+| Member | - A person who either started or joined a team, as long as the team hasn't decided to remove them. |  |
 | Membership type | - A classification of members, automatically calculated every quarter, based on the average frequency of completing tasks, attending sessions or covering costs. Used to determine the number of ownership token earned by the member each month. Types include: *Daily* (completes/attends on average at least 1 task or session every week day), *Weekly*, *monthly*,  *Quarterly* & *Yearly*. |  |
 | Team ownership token | - Earned every month, according to member membership type. Fixed amount minted up front. Can be granted by the team to a person by the team (major decision) |  |
 | Cantata | - A perioid publication demonstrating what the team is working on. Serves as a way to allow teams to share ideas & provide a glimpse on their WIP & progress. |  |
