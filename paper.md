@@ -53,7 +53,8 @@ The fromTeal digital world is actually an information system with a new UI parad
 - They decide to sell the product to people & companies through a web site, & after some time have initial profits
 - fromTeal shows the equity tokens balance of each member, so they're able to split the profits according to the distribution of equity tokens
 
-### Entities
+### Entities overview
+
 
 | Entity | Description | Examples |
 | ----------- | ----------- | ----------- |
@@ -66,9 +67,9 @@ The fromTeal digital world is actually an information system with a new UI parad
 | Member |  |  |
 | Membership type | - A classification of members, automatically calculated every quarter, based on the average frequency of completing tasks, attending sessions or covering costs. Used to determine the number of ownership token earned by the member each month. Types include: *Daily* (completes/attends on average at least 1 task or session every week day), *Weekly*, *monthly*,  *Quarterly* & *Yearly*. |  |
 | Team ownership token | - Earned every month, according to member membership type. Fixed amount minted up front. Can be granted by the team to a person by the team (major decision) |  |
-| Cantata |  |  |
-| Decision |  |  |
-| Product |  |  |
-| Customer |  |  |
-| Contribution Feedback |  |  |
-| Product Feedback |  |  |
+| Cantata | - A perioid publication demonstrating what the team is working on. Serves as a way to allow teams to share ideas & provide a glimpse on their WIP & progress. |  |
+| Decision | - A documentation of a change the team need to agree on, which goes through several changes, such as proposal, discussion, voting, acceptance, rejection and evaluation. |  |
+| Product | - An offering delivered by the team to outside consumers, such as an artwork, software service, hardware device or any other deliverable. |  |
+| Customer | - A consumer of a team's product, that either pays for it, or uses it for free. |  |
+| Contribution Feedback | - A feedback provided internally on a member's contribution, such as a task or session. |  |
+| Product Feedback | - A feedback provided externally on a product offered by the team. |  |
