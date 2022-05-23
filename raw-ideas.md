@@ -16,7 +16,7 @@ so combining the ideas gives them something much bigger & more special.
 
 So, there are many examples of where people created art in a group, creating something much bigger than what each one of them would have been able to create individually.
 
-Given that, why aren't there more artist groups? And to be clear, we're speaking of an extended concept of art, it could be the Velvet Underground, or XEROX PARC, or Watson & Criek & (forgot her name).
+Given that, why aren't there more artist groups? And to be clear, we're speaking of an extended concept of art, it could be the Velvet Underground, or XEROX PARC, or Watson & Crick & Franklin.
 
 So how is fromTeal going to help generate more beautiful art, & specifically by helping people create art groups, in which the sum is much bigger than it's parts?
 
@@ -56,10 +56,10 @@ The other major purpose of the infrastructure under the digital world, is to aut
 In order for this infrastructure to manage the teams equity, & keep track of each member contribution, the team buildings contain the tools & integrations that keeps track of tasks, meetings, customers, sales &c. So when team members use the tools & update the state of objects, fromTeal smart contracts are informed & can manage the equity & keep track of members contribution.
 
 In particular, there are 7 levels of contribution, determined by the smart contract, which result in a monthly amount of equity tokens that are granted to team members. The calculation of the level of contribution of each member is based on 4 factors, measured per time-period (e.g., month):
-A. The number of delivered tasks
-B. The ranking of the tasks difficulty (based on a scale of years-of-experience required)
-C. The ranking of the tasks value by their recipients
-D. The number of attended team meetings/calls
+* The number of delivered tasks
+* The ranking of the tasks difficulty (based on a scale of years-of-experience required)
+* The ranking of the tasks value by their recipients
+* The number of attended team meetings/calls
 
 The smart contract has a formula calculating the number for each member every month, & the number falls into 1 of the 7 levels of contribution, based on which the member will earn equity tokens.
 
