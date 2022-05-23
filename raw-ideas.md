@@ -55,5 +55,15 @@ The other major purpose of the infrastructure under the digital world, is to aut
 
 In order for this infrastructure to manage the teams equity, & keep track of each member contribution, the team buildings contain the tools & integrations that keeps track of tasks, meetings, customers, sales &c. So when team members use the tools & update the state of objects, fromTeal smart contracts are informed & can manage the equity & keep track of members contribution.
 
+In particular, there are 7 levels of contribution, determined by the smart contract, which result in a monthly amount of equity tokens that are granted to team members. The calculation of the level of contribution of each member is based on 4 factors, measured per time-period (e.g., month):
+A. The number of delivered tasks
+B. The ranking of the tasks difficulty (based on a scale of years-of-experience required)
+C. The ranking of the tasks value by their recipients
+D. The number of attended team meetings/calls
 
+The smart contract has a formula calculating the number for each member every month, & the number falls into 1 of the 7 levels of contribution, based on which the member will earn equity tokens.
+
+Besides managing the equity & fair splitting of the value created by teams, the smart contract infrastructure also manages the overall governance of the team in a fair way. As the team are for creative people (artists, engineers, researches), it must not have any artificial hierarchy, where some members have more power over others & tell others what to do. This means though that there must be agreed ways to resolve conflicts & regulate decision making. In general, based on the Teal principles, every team member has the power to make decisions on everything that impacts them, as long as they ask other for advice, especially whoever is also impacted by the decision.
+
+Teams in fromTeal are encouraged to remain small - up to 10 members. For example, a team building a solution to a problem, that already has customers paying for the solution, would normally be composed of 5-6 engineers/artists/proffessionals working on the solution, 2-3 people taking care of the customer happiness, & 1-2 people taking care of reaching out & selling to customers. If the team's revenue grows over a certain amount, that exceeds the capacity of work the team is capable of, they can perform cell-splitting operation, in which a team splitts into 2 teams, each having different product variant or cusromer segment. The 2 teams can then grow back to the original size. The smart contract will regulate the process & ensure fair splitting of budget to ensure the success of both teams. This process can continue multiple times, so the team essentially becomes an organization of federated teams. However, there's no central management of the organization. The smart contract will provide ways for the teams to decide on global decisions & proposals, but normal decisions are just made by teams getting other teams buy-in & helping each other.
 
