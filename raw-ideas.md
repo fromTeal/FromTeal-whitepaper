@@ -22,9 +22,9 @@ So how is fromTeal going to help generate more beautiful art, & specifically by 
 
 
 fromTeal tries to do that using 3 layers:
-1. *Maps* mapping purposes/problems to people/teams
-2. *Digital world* for teams to collaborate & work together in
-3. *Smart Contracts* infrastructure facilitating the teams' governance & finance
+1. **Maps** mapping purposes/problems to people/teams
+2. **Digital world** for teams to collaborate & work together in
+3. **Smart Contracts** infrastructure facilitating the teams' governance & finance
 
 
 We need to help people to discover each other, & we need people working on some specific problem or need, to discover others working on the same problem or need.
@@ -52,6 +52,8 @@ Since all the teams on the same problem lot are all interested in solving the sa
 The digital world is built on infrastructure that synchronizes with a blockchain intended to keep the state of the digital world in decentralized concensus, without the ability to temper with the data. Moderators still are a centralized decision making for now. Having the state of the digital world on-chain, & having the code open-source, means that it is possible for the community to fork the whole digital world in case of governance issues.
 
 The other major purpose of the infrastructure under the digital world, is to automatically manage the financial equity of teams, so that they can fairly split the value they create together. These teams, they are solving a problem, people in the lot reported that they have that problem. The team wants to work on it, & maybe make a living out of what they build, the value they created. So, it is possible for the team to sell what they worked on, to other people having the problem or need. If they sell what they created, who is the owner who gets all the money & pays salaries? In fromTeal, it's not who, it's the team itself. fromTeal provisions a smart contract for managing each team. That smart contract will basically own the team, so that there's no single person owning the team, all members are owners. The money from sales arrives to the smart contract, & the profits are split between the team members in a fair way, based on their contribution.
+
+In order for this infrastructure to manage the teams equity, & keep track of each member contribution, the team buildings contain the tools & integrations that keeps track of tasks, meetings, customers, sales &c. So when team members use the tools & update the state of objects, fromTeal smart contracts are informed & can manage the equity & keep track of members contribution.
 
 
 
