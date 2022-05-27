@@ -1,6 +1,6 @@
 # FromTeal-whitepaper Raw Ideas
 
-
+`purpose/what we're trying to achieve`
 We want fromTeal to generate beauty & specifically Art, beautiful Art, in the world.
 
 The way we want to that is this. 
@@ -20,17 +20,20 @@ Given that, why aren't there more artist groups? And to be clear, we're speaking
 
 So how is fromTeal going to help generate more beautiful art, & specifically by helping people create art groups, in which the sum is much bigger than it's parts?
 
-
+`solution layers`
 fromTeal tries to do that using 3 layers:
 1. **Maps** mapping purposes/problems to people/teams
 2. **Digital world** for teams to collaborate & work together in
 3. **Smart Contracts** infrastructure facilitating the teams' governance & finance
 
 
+`description of the solution`
 We need to help people to discover each other, & we need people working on some specific problem or need, to discover others working on the same problem or need.
 And either group together or cross-polinate each other (even when not in the same group, they can still contribute & influence each other).
 
 How do you help one artist/engineer/researcher working on something, discover another artist working on the same thing? And connect them.
+
+
 
 So, fromTeal tries to do this in this way:
 It offers a digital world, containing 4 main entities:
